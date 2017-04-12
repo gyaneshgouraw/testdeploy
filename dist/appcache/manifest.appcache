@@ -1,0 +1,9 @@
+CACHE MANIFEST
+#ver:4/12/2017, 5:06:39 PM
+#plugin:4.6.2
+
+CACHE:
+/static/bundle.js
+
+NETWORK:
+*
